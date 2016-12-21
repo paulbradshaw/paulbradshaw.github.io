@@ -1,1 +1,4 @@
-p { color: gray }
+p { 
+  color: gray ;
+  font-family : Georgia, Garamond, Serif;
+}
