@@ -1,5 +1,6 @@
-p { 
+p {
   color: gray ;
   font-family : Georgia, Garamond, Serif;
   font-size : 300%;
+  background-color: blue;
 }
