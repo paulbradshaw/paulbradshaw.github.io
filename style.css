@@ -1,6 +1,11 @@
 p {
-  color: gray ;
+  color: #581845 ;
   font-family : Georgia, Garamond, Serif;
   font-size : 300%;
-  background-color: blue;
+  text-align: center;
+
+}
+
+body {
+  background-color: #C70039;
 }
